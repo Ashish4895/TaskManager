@@ -30,7 +30,6 @@ TaskManager/
 │       ├── auth/
 │       ├── todos/
 │       └── projects/
-├── backend-express/      # Legacy Express app (archived)
 └── frontend/
     └── src/
         ├── app/          # Routes (thin page wrappers)
@@ -111,7 +110,7 @@ See **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)** for step-by-step instructions.
 **Live URLs** _(update after deploy):_
 
 - Frontend: https://task-manager-phi-dun-87.vercel.app
-- API: _pending — deploy backend and set `NEXT_PUBLIC_API_URL` on Vercel, then redeploy_
+- API: https://dexter-api-8l85.onrender.com/api
 
 ## Part 2 — AbleSpace Take Data
 

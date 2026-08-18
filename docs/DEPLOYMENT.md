@@ -53,7 +53,7 @@ In Google Cloud Console → **Credentials** → your OAuth client:
 | Service | URL |
 |---------|-----|
 | Frontend | https://task-manager-phi-dun-87.vercel.app |
-| Backend API | _pending_ |
+| Backend API | https://dexter-api-8l85.onrender.com |
 
 ## Manual deploy (CLI)
 
