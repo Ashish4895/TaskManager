@@ -112,12 +112,6 @@ See **[docs/DEPLOYMENT.md](docs/DEPLOYMENT.md)** for step-by-step instructions.
 - Frontend: https://task-manager-phi-dun-87.vercel.app
 - API: https://dexter-api-8l85.onrender.com/api
 
-## Part 2 — AbleSpace Take Data
-
-Template and prompts: **[docs/part-2-ablespace.md](docs/part-2-ablespace.md)**
-
-Fill in screenshots, UX notes, and improvement ideas after exploring Caseload → Take Data.
-
 ## Scripts
 
 ```bash
